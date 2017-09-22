@@ -33,8 +33,8 @@ void setup() {
   //Serial.begin(57600);
   //Roomba.begin(57600);
 
-   Serial.begin(115200);
-  Roomba.begin(115200);
+   Serial.begin(57600);
+  Roomba.begin(57600);
     
     //Use Device Detect to wake Roomba
     wakeUp ();
